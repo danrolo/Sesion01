@@ -1,0 +1,23 @@
+h1{
+    color: brown;
+}
+
+.textoDebajoTitulo{
+    color: #46484c;
+}
+
+.textoPromocional{
+    color: #8b8b8b;
+}
+
+.textoDelBoton{
+    color: white;
+}
+
+body{
+    background-color: #fffbf7;
+}
+
+button{
+    background-color: #025157;
+}
